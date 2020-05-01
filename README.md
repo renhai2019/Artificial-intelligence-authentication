@@ -1,2 +1,2 @@
-# Artificial-intelligence-authentication
-Intelligent robots can identify objects by observing small details of objects, so let them summarize the characteristics of each company's objects through very small details, and then verify the authenticity after the conclusion.
+# Artificial intelligence to identify genuine and fake products
+The artificial intelligence robot can recognize the objects by observing the tiny details in the picture, and has a high accuracy rate, so it must be very interesting for him to distinguish the genuine and fake anti-products through the tiny details in the picture.
